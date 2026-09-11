@@ -1,0 +1,144 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "The Last Horizon",
+      "name": null,
+      "overview": "A stranded astronaut discovers a mysterious signal coming from beyond the edge of the known galaxy.",
+      "posterPath": "https://picsum.photos/seed/movie1/500/750"
+    },
+    {
+      "id": 2,
+      "title": "Shadow Protocol",
+      "name": null,
+      "overview": "An intelligence agent races against time after uncovering a secret organization operating inside the government.",
+      "posterPath": "https://picsum.photos/seed/movie2/500/750"
+    },
+    {
+      "id": 3,
+      "title": "Beyond the Ocean",
+      "name": null,
+      "overview": "A deep-sea explorer finds an ancient civilization hidden beneath the ocean floor.",
+      "posterPath": "https://picsum.photos/seed/movie3/500/750"
+    },
+    {
+      "id": 4,
+      "title": "Midnight City",
+      "name": null,
+      "overview": "A detective investigates a series of strange disappearances that happen only after midnight.",
+      "posterPath": "https://picsum.photos/seed/movie4/500/750"
+    },
+    {
+      "id": 5,
+      "title": "The Forgotten Kingdom",
+      "name": null,
+      "overview": "A young warrior discovers that the legendary kingdom from ancient stories may still exist.",
+      "posterPath": "https://picsum.photos/seed/movie5/500/750"
+    },
+    {
+      "id": 6,
+      "title": "Neon Dreams",
+      "name": null,
+      "overview": "In a futuristic city, a programmer becomes trapped inside a digital world of her own creation.",
+      "posterPath": "https://picsum.photos/seed/movie6/500/750"
+    },
+    {
+      "id": 7,
+      "title": "The Silent Forest",
+      "name": null,
+      "overview": "A group of friends enters a mysterious forest where every sound seems to disappear.",
+      "posterPath": "https://picsum.photos/seed/movie7/500/750"
+    },
+    {
+      "id": 8,
+      "title": "Velocity",
+      "name": null,
+      "overview": "A professional racing driver gets one final chance to win the championship after a career-ending accident.",
+      "posterPath": "https://picsum.photos/seed/movie8/500/750"
+    },
+    {
+      "id": 9,
+      "title": "Echoes of Time",
+      "name": null,
+      "overview": "A scientist discovers a device capable of sending memories into the past.",
+      "posterPath": "https://picsum.photos/seed/movie9/500/750"
+    },
+    {
+      "id": 10,
+      "title": "Crimson Night",
+      "name": null,
+      "overview": "A detective and a journalist uncover a conspiracy surrounding a decades-old unsolved case.",
+      "posterPath": "https://picsum.photos/seed/movie10/500/750"
+    },
+    {
+      "id": 11,
+      "title": "The Rising Sun",
+      "name": null,
+      "overview": "A young leader attempts to unite rival kingdoms against an approaching invasion.",
+      "posterPath": "https://picsum.photos/seed/movie11/500/750"
+    },
+    {
+      "id": 12,
+      "title": "Digital Ghost",
+      "name": null,
+      "overview": "A cybersecurity expert discovers an artificial intelligence that has been hiding inside the world's networks.",
+      "posterPath": "https://picsum.photos/seed/movie12/500/750"
+    },
+    {
+      "id": 13,
+      "title": "Lost in Winter",
+      "name": null,
+      "overview": "After a plane crash in the mountains, survivors must find their way home before winter arrives.",
+      "posterPath": "https://picsum.photos/seed/movie13/500/750"
+    },
+    {
+      "id": 14,
+      "title": "Parallel Worlds",
+      "name": null,
+      "overview": "Two scientists accidentally open a gateway connecting their world to an alternate reality.",
+      "posterPath": "https://picsum.photos/seed/movie14/500/750"
+    },
+    {
+      "id": 15,
+      "title": "The Final Mission",
+      "name": null,
+      "overview": "A retired soldier returns for one last mission when his former team goes missing.",
+      "posterPath": "https://picsum.photos/seed/movie15/500/750"
+    },
+    {
+      "id": 16,
+      "title": "Starlight",
+      "name": null,
+      "overview": "A young astronomer discovers a signal that could prove humanity is not alone in the universe.",
+      "posterPath": "https://picsum.photos/seed/movie16/500/750"
+    },
+    {
+      "id": 17,
+      "title": "Broken Code",
+      "name": null,
+      "overview": "A software engineer finds a hidden program that predicts major events before they happen.",
+      "posterPath": "https://picsum.photos/seed/movie17/500/750"
+    },
+    {
+      "id": 18,
+      "title": "Into the Unknown",
+      "name": null,
+      "overview": "An expedition team travels into an unexplored region where strange phenomena challenge everything they know.",
+      "posterPath": "https://picsum.photos/seed/movie18/500/750"
+    },
+    {
+      "id": 19,
+      "title": "After Tomorrow",
+      "name": null,
+      "overview": "Humanity struggles to survive after an unexplained global event changes the planet forever.",
+      "posterPath": "https://picsum.photos/seed/movie19/500/750"
+    },
+    {
+      "id": 20,
+      "title": "The Final Chapter",
+      "name": null,
+      "overview": "Years after disappearing, a legendary detective returns to solve the case that ended his career.",
+      "posterPath": "https://picsum.photos/seed/movie20/500/750"
+    }
+  ]
+}
